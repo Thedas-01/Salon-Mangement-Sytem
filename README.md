@@ -1,1 +1,1 @@
-# Salon-Mangement-Sytem
+# Salon-Management-Sytem
